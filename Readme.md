@@ -12,7 +12,7 @@
 
 ![tempsnggip](https://user-images.githubusercontent.com/56550632/110239932-4f40d380-7f28-11eb-92e0-a451e9ed9d59.png)
 
-![tempsnip](https://user-images.githubusercontent.com/56550632/110239973-74354680-7f28-11eb-95ef-088794b157d7.png)
+![tempsnip](https://user-images.githubusercontent.com/56550632/110241353-13f5d300-7f2f-11eb-80d8-fdd83b5f80cc.png)
 
 
 # Pendencies.
